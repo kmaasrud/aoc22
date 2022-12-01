@@ -1,0 +1,30 @@
+                                            _\/_
+                                             /\
+                                             /\
+                                            /  \
+                                            /~~\o
+                                           /o   \
+                                          /~~*~~~\
+                                         o/    o \
+                                         /~~~~~~~~\~`
+                                        /__*_______\
+                                             ||
+                                           \====/
+                                            \__/
+
+
+         /\                                  .             .-.   .-._   .-._.
+     _  / |         .'   .-.             ...;...          ; -' .: (_)`-'          .'
+    (  /  |  . .-..'_.;  :  .-.  . ,';.   .'      .-.   -;--   ::      .-.   .-..'  .-.
+     `/.__|_.':   ;  ;   ;.;.-'  ;;  ;; .;       ;   ;' .      ::   _ ;   ;':   ; .;.-'
+ .:' /    |   `:::'`.`._.' `:::'';  ;;.;         `;;'`.'       `: .; )`;;'  `:::'`.`:::'
+(__.'     `-'                   ;    `.                          `--'
+
+
+            Here you will find my solutions for this years Advent of Code.
+
+This year, I chose Go as my language of choice, as I wanted something simple, but with a
+robust and complete standard library. The source is hosted on:
+
+                  - Sourcehut: https://git.sr.ht/~kmaasrud/aoc22
+                  - GitHub: https://github.com/kmaasrud/aoc22
