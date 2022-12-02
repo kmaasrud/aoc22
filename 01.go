@@ -65,7 +65,7 @@ func b(file string) int {
 }
 
 func main() {
-    content, err := os.ReadFile("data/01a.txt")
+    content, err := os.ReadFile("data/01.txt")
 
     if err != nil {
         log.Fatal(err)
